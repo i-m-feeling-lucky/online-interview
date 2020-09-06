@@ -2,7 +2,7 @@
 
 在线面试平台（软件工程课程项目）。
 
-
+# 地址
 
 **前端**
 
@@ -19,3 +19,24 @@
 **RTC Socket URL**
 
 <https://rtc.yusanshi.com/>
+
+
+
+# 示例页面
+
+**登录**
+
+![](./img/login.png)
+
+**HR 管理面试**
+
+![](./img/hr.png)
+
+**面试界面 - 面试官**
+
+![](./img/interview-interviewer.png)
+
+**面试界面 - 候选人**
+
+![](./img/interview-interviewee.png)
+
