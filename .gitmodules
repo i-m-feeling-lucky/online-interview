@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:i-m-feeling-lucky/frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:i-m-feeling-lucky/backend.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:i-m-feeling-lucky/i-m-feeling-lucky.github.io.git
+[submodule "oj"]
+	path = oj
+	url = git@github.com:i-m-feeling-lucky/OJ-Interface.git
