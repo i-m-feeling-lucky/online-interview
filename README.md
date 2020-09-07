@@ -40,3 +40,7 @@
 
 ![](./img/interview-interviewee.png)
 
+
+# 演示视频
+
+<https://yun.yusanshi.com/sw/compressed.mp4>
